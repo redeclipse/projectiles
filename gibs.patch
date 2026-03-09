@@ -1,0 +1,196 @@
+diff --git a/parts/player/calf/left/iqm.cfg b/parts/player/calf/left/iqm.cfg
+index 4602b4a..2810504 100644
+--- a/parts/player/calf/left/iqm.cfg
++++ b/parts/player/calf/left/iqm.cfg
+@@ -1,7 +1,7 @@
+ iqmload "gib_calf_l.iqm"
+ 
+-iqmskin "flesh_calf_l" "<dds>../../../gibs/gib01/diffuse.png" "<dds>../../../gibs/gib01/mask.png" 0.2 0.1
+-iqmbumpmap "flesh_calf_l" "<dds>../../../gibs/gib01/normals.png"
++iqmskin "flesh_calf_l" "<dds>../../../../gibs/gib01/diffuse.png" "<dds>../../../../gibs/gib01/mask.png" 0.2 0.1
++iqmbumpmap "flesh_calf_l" "<dds>../../../../gibs/gib01/normals.png"
+ iqmenvmap "flesh_calf_l" "skyboxes/skylump"
+ 
+ iqmskin "gib_calf_l" "<dds>../../../../../actors/player/diffuse.png" "<dds>../../../../../actors/player/mask.png" 0.2 0.1
+diff --git a/parts/player/calf/right/iqm.cfg b/parts/player/calf/right/iqm.cfg
+index d171e7a..4e53d2b 100644
+--- a/parts/player/calf/right/iqm.cfg
++++ b/parts/player/calf/right/iqm.cfg
+@@ -1,7 +1,7 @@
+ iqmload "gib_calf_r.iqm"
+ 
+-iqmskin "flesh_calf_r" "<dds>../../../gibs/gib01/diffuse.png" "<dds>../../../gibs/gib01/mask.png" 0.2 0.1
+-iqmbumpmap "flesh_calf_r" "<dds>../../../gibs/gib01/normals.png"
++iqmskin "flesh_calf_r" "<dds>../../../../gibs/gib01/diffuse.png" "<dds>../../../../gibs/gib01/mask.png" 0.2 0.1
++iqmbumpmap "flesh_calf_r" "<dds>../../../../gibs/gib01/normals.png"
+ iqmenvmap "flesh_calf_r" "skyboxes/skylump"
+ 
+ iqmskin "gib_calf_r" "<dds>../../../../../actors/player/diffuse.png" "<dds>../../../../../actors/player/mask.png" 0.2 0.1
+diff --git a/parts/player/foot/left/iqm.cfg b/parts/player/foot/left/iqm.cfg
+index f1dd7ad..660e816 100644
+--- a/parts/player/foot/left/iqm.cfg
++++ b/parts/player/foot/left/iqm.cfg
+@@ -1,7 +1,7 @@
+ iqmload "gib_foot_l.iqm"
+ 
+-iqmskin "flesh_foot_l" "<dds>../../../gibs/gib01/diffuse.png" "<dds>../../../gibs/gib01/mask.png" 0.2 0.1
+-iqmbumpmap "flesh_foot_l" "<dds>../../../gibs/gib01/normals.png"
++iqmskin "flesh_foot_l" "<dds>../../../../gibs/gib01/diffuse.png" "<dds>../../../../gibs/gib01/mask.png" 0.2 0.1
++iqmbumpmap "flesh_foot_l" "<dds>../../../../gibs/gib01/normals.png"
+ iqmenvmap "flesh_foot_l" "skyboxes/skylump"
+ 
+ iqmskin "gib_foot_l" "<dds>../../../../../actors/player/diffuse.png" "<dds>../../../../../actors/player/mask.png" 0.2 0.1
+diff --git a/parts/player/foot/right/iqm.cfg b/parts/player/foot/right/iqm.cfg
+index 1b81aea..b91e096 100644
+--- a/parts/player/foot/right/iqm.cfg
++++ b/parts/player/foot/right/iqm.cfg
+@@ -1,7 +1,7 @@
+ iqmload "gib_foot_r.iqm"
+ 
+-iqmskin "flesh_foot_r" "<dds>../../../gibs/gib01/diffuse.png" "<dds>../../../gibs/gib01/mask.png" 0.2 0.1
+-iqmbumpmap "flesh_foot_r" "<dds>../../../gibs/gib01/normals.png"
++iqmskin "flesh_foot_r" "<dds>../../../../gibs/gib01/diffuse.png" "<dds>../../../../gibs/gib01/mask.png" 0.2 0.1
++iqmbumpmap "flesh_foot_r" "<dds>../../../../gibs/gib01/normals.png"
+ iqmenvmap "flesh_foot_r" "skyboxes/skylump"
+ 
+ iqmskin "gib_foot_r" "<dds>../../../../../actors/player/diffuse.png" "<dds>../../../../../actors/player/mask.png" 0.2 0.1
+diff --git a/parts/player/forearm/left/iqm.cfg b/parts/player/forearm/left/iqm.cfg
+index 0cdce8f..ff1ff6c 100644
+--- a/parts/player/forearm/left/iqm.cfg
++++ b/parts/player/forearm/left/iqm.cfg
+@@ -1,7 +1,7 @@
+ iqmload "gib_forearm_l.iqm"
+ 
+-iqmskin "flesh_forearm_l" "<dds>../../../gibs/gib01/diffuse.png" "<dds>../../../gibs/gib01/mask.png" 0.2 0.1
+-iqmbumpmap "flesh_forearm_l" "<dds>../../../gibs/gib01/normals.png"
++iqmskin "flesh_forearm_l" "<dds>../../../../gibs/gib01/diffuse.png" "<dds>../../../../gibs/gib01/mask.png" 0.2 0.1
++iqmbumpmap "flesh_forearm_l" "<dds>../../../../gibs/gib01/normals.png"
+ iqmenvmap "flesh_forearm_l" "skyboxes/skylump"
+ 
+ iqmskin "gib_forearm_l" "<dds>../../../../../actors/player/diffuse.png" "<dds>../../../../../actors/player/mask.png" 0.2 0.1
+diff --git a/parts/player/forearm/right/iqm.cfg b/parts/player/forearm/right/iqm.cfg
+index 7722135..41dc305 100644
+--- a/parts/player/forearm/right/iqm.cfg
++++ b/parts/player/forearm/right/iqm.cfg
+@@ -1,7 +1,7 @@
+ iqmload "gib_forearm_r.iqm"
+ 
+-iqmskin "flesh_forearm_r" "<dds>../../../gibs/gib01/diffuse.png" "<dds>../../../gibs/gib01/mask.png" 0.2 0.1
+-iqmbumpmap "flesh_forearm_r" "<dds>../../../gibs/gib01/normals.png"
++iqmskin "flesh_forearm_r" "<dds>../../../../gibs/gib01/diffuse.png" "<dds>../../../../gibs/gib01/mask.png" 0.2 0.1
++iqmbumpmap "flesh_forearm_r" "<dds>../../../../gibs/gib01/normals.png"
+ iqmenvmap "flesh_forearm_r" "skyboxes/skylump"
+ 
+ iqmskin "gib_forearm_r" "<dds>../../../../../actors/player/diffuse.png" "<dds>../../../../../actors/player/mask.png" 0.2 0.1
+diff --git a/parts/player/hand/left/iqm.cfg b/parts/player/hand/left/iqm.cfg
+index acc2351..69c7866 100644
+--- a/parts/player/hand/left/iqm.cfg
++++ b/parts/player/hand/left/iqm.cfg
+@@ -1,7 +1,7 @@
+ iqmload "gib_hand_l.iqm"
+ 
+-iqmskin "flesh_hand_l" "<dds>../../../gibs/gib01/diffuse.png" "<dds>../../../gibs/gib01/mask.png" 0.2 0.1
+-iqmbumpmap "flesh_hand_l" "<dds>../../../gibs/gib01/normals.png"
++iqmskin "flesh_hand_l" "<dds>../../../../gibs/gib01/diffuse.png" "<dds>../../../../gibs/gib01/mask.png" 0.2 0.1
++iqmbumpmap "flesh_hand_l" "<dds>../../../../gibs/gib01/normals.png"
+ iqmenvmap "flesh_hand_l" "skyboxes/skylump"
+ 
+ iqmskin "gib_hand_l" "<dds>../../../../../actors/player/diffuse.png" "<dds>../../../../../actors/player/mask.png" 0.2 0.1
+diff --git a/parts/player/hand/right/iqm.cfg b/parts/player/hand/right/iqm.cfg
+index 7eaf38b..d5362fe 100644
+--- a/parts/player/hand/right/iqm.cfg
++++ b/parts/player/hand/right/iqm.cfg
+@@ -1,7 +1,7 @@
+ iqmload "gib_hand_r.iqm"
+ 
+-iqmskin "flesh_hand_r" "<dds>../../../gibs/gib01/diffuse.png" "<dds>../../../gibs/gib01/mask.png" 0.2 0.1
+-iqmbumpmap "flesh_hand_r" "<dds>../../../gibs/gib01/normals.png"
++iqmskin "flesh_hand_r" "<dds>../../../../gibs/gib01/diffuse.png" "<dds>../../../../gibs/gib01/mask.png" 0.2 0.1
++iqmbumpmap "flesh_hand_r" "<dds>../../../../gibs/gib01/normals.png"
+ iqmenvmap "flesh_hand_r" "skyboxes/skylump"
+ 
+ iqmskin "gib_hand_r" "<dds>../../../../../actors/player/diffuse.png" "<dds>../../../../../actors/player/mask.png" 0.2 0.1
+diff --git a/parts/player/thigh/left/iqm.cfg b/parts/player/thigh/left/iqm.cfg
+index d097d5d..15ec581 100644
+--- a/parts/player/thigh/left/iqm.cfg
++++ b/parts/player/thigh/left/iqm.cfg
+@@ -1,7 +1,7 @@
+ iqmload "gib_thigh_l.iqm"
+ 
+-iqmskin "flesh_thigh_l" "<dds>../../../gibs/gib01/diffuse.png" "<dds>../../../gibs/gib01/mask.png" 0.2 0.1
+-iqmbumpmap "flesh_thigh_l" "<dds>../../../gibs/gib01/normals.png"
++iqmskin "flesh_thigh_l" "<dds>../../../../gibs/gib01/diffuse.png" "<dds>../../../../gibs/gib01/mask.png" 0.2 0.1
++iqmbumpmap "flesh_thigh_l" "<dds>../../../../gibs/gib01/normals.png"
+ iqmenvmap "flesh_thigh_l" "skyboxes/skylump"
+ 
+ iqmskin "gib_thigh_l" "<dds>../../../../../actors/player/diffuse.png" "<dds>../../../../../actors/player/mask.png" 0.2 0.1
+diff --git a/parts/player/thigh/right/iqm.cfg b/parts/player/thigh/right/iqm.cfg
+index 278556e..16d88b4 100644
+--- a/parts/player/thigh/right/iqm.cfg
++++ b/parts/player/thigh/right/iqm.cfg
+@@ -1,7 +1,7 @@
+ iqmload "gib_thigh_r.iqm"
+ 
+-iqmskin "flesh_thigh_r" "<dds>../../../gibs/gib01/diffuse.png" "<dds>../../../gibs/gib01/mask.png" 0.2 0.1
+-iqmbumpmap "flesh_thigh_r" "<dds>../../../gibs/gib01/normals.png"
++iqmskin "flesh_thigh_r" "<dds>../../../../gibs/gib01/diffuse.png" "<dds>../../../../gibs/gib01/mask.png" 0.2 0.1
++iqmbumpmap "flesh_thigh_r" "<dds>../../../../gibs/gib01/normals.png"
+ iqmenvmap "flesh_thigh_r" "skyboxes/skylump"
+ 
+ iqmskin "gib_thigh_r" "<dds>../../../../../actors/player/diffuse.png" "<dds>../../../../../actors/player/mask.png" 0.2 0.1
+diff --git a/parts/player/torso/lower/iqm.cfg b/parts/player/torso/lower/iqm.cfg
+index eb41aad..3c56580 100644
+--- a/parts/player/torso/lower/iqm.cfg
++++ b/parts/player/torso/lower/iqm.cfg
+@@ -1,7 +1,7 @@
+ iqmload "gib_lowertorso.iqm"
+ 
+-iqmskin "flesh_lowertorso" "<dds>../../../gibs/gib01/diffuse.png" "<dds>../../../gibs/gib01/mask.png" 0.2 0.1
+-iqmbumpmap "flesh_lowertorso" "<dds>../../../gibs/gib01/normals.png"
++iqmskin "flesh_lowertorso" "<dds>../../../../gibs/gib01/diffuse.png" "<dds>../../../../gibs/gib01/mask.png" 0.2 0.1
++iqmbumpmap "flesh_lowertorso" "<dds>../../../../gibs/gib01/normals.png"
+ iqmenvmap "flesh_lowertorso" "skyboxes/skylump"
+ 
+ iqmskin "gib_lowertorso" "<dds>../../../../../actors/player/diffuse.png" "<dds>../../../../../actors/player/mask.png" 0.2 0.1
+diff --git a/parts/player/torso/upper/iqm.cfg b/parts/player/torso/upper/iqm.cfg
+index c810152..44d9075 100644
+--- a/parts/player/torso/upper/iqm.cfg
++++ b/parts/player/torso/upper/iqm.cfg
+@@ -1,7 +1,7 @@
+ iqmload "gib_uppertorso.iqm"
+ 
+-iqmskin "flesh_uppertorso" "<dds>../../../gibs/gib01/diffuse.png" "<dds>../../../gibs/gib01/mask.png" 0.2 0.1
+-iqmbumpmap "flesh_uppertorso" "<dds>../../../gibs/gib01/normals.png"
++iqmskin "flesh_uppertorso" "<dds>../../../../gibs/gib01/diffuse.png" "<dds>../../../../gibs/gib01/mask.png" 0.2 0.1
++iqmbumpmap "flesh_uppertorso" "<dds>../../../../gibs/gib01/normals.png"
+ iqmenvmap "flesh_uppertorso" "skyboxes/skylump"
+ 
+ iqmskin "gib_uppertorso" "<dds>../../../../../actors/player/diffuse.png" "<dds>../../../../../actors/player/mask.png" 0.2 0.1
+diff --git a/parts/player/upperarm/left/iqm.cfg b/parts/player/upperarm/left/iqm.cfg
+index 816761e..ad3bfe4 100644
+--- a/parts/player/upperarm/left/iqm.cfg
++++ b/parts/player/upperarm/left/iqm.cfg
+@@ -1,7 +1,7 @@
+ iqmload "gib_upperarm_l.iqm"
+ 
+-iqmskin "flesh_upperarm_l" "<dds>../../../gibs/gib01/diffuse.png" "<dds>../../../gibs/gib01/mask.png" 0.2 0.1
+-iqmbumpmap "flesh_upperarm_l" "<dds>../../../gibs/gib01/normals.png"
++iqmskin "flesh_upperarm_l" "<dds>../../../../gibs/gib01/diffuse.png" "<dds>../../../../gibs/gib01/mask.png" 0.2 0.1
++iqmbumpmap "flesh_upperarm_l" "<dds>../../../../gibs/gib01/normals.png"
+ iqmenvmap "flesh_upperarm_l" "skyboxes/skylump"
+ 
+ iqmskin "gib_upperarm_l" "<dds>../../../../../actors/player/diffuse.png" "<dds>../../../../../actors/player/mask.png" 0.2 0.1
+diff --git a/parts/player/upperarm/right/iqm.cfg b/parts/player/upperarm/right/iqm.cfg
+index e21bc6e..7db297a 100644
+--- a/parts/player/upperarm/right/iqm.cfg
++++ b/parts/player/upperarm/right/iqm.cfg
+@@ -1,7 +1,7 @@
+ iqmload "gib_upperarm_r.iqm"
+ 
+-iqmskin "flesh_upperarm_r" "<dds>../../../gibs/gib01/diffuse.png" "<dds>../../../gibs/gib01/mask.png" 0.2 0.1
+-iqmbumpmap "flesh_upperarm_r" "<dds>../../../gibs/gib01/normals.png"
++iqmskin "flesh_upperarm_r" "<dds>../../../../gibs/gib01/diffuse.png" "<dds>../../../../gibs/gib01/mask.png" 0.2 0.1
++iqmbumpmap "flesh_upperarm_r" "<dds>../../../../gibs/gib01/normals.png"
+ iqmenvmap "flesh_upperarm_r" "skyboxes/skylump"
+ 
+ iqmskin "gib_upperarm_r" "<dds>../../../../../actors/player/diffuse.png" "<dds>../../../../../actors/player/mask.png" 0.2 0.1
